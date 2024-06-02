@@ -24,9 +24,9 @@ export default function OurTeam() {
 
     }}>
      
-        <SecCard name="Ahmad-aladam" direction="web developent & marketing & webdesign" image="build/images/rrr.jpg"/>
-        <SecCard name="rawad-almasri" direction="front-end development & projectmanger" image="build/images/ttt.jpg"/>
-        <SecCard name="alaa-shahine" direction="back-end development & flutter developer" image="build/images/222.jpg"/>
+        <SecCard name="Ahmad-aladam" direction="web developent & marketing & webdesign" image="/public/images/rrr.jpg"/>
+        <SecCard name="rawad-almasri" direction="front-end development & projectmanger" image="/public/images/ttt.jpg"/>
+        <SecCard name="alaa-shahine" direction="back-end development & flutter developer" image="/public/images/222.jpg"/>
        
     </Stack>
     </Rotate>
